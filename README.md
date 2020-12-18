@@ -1,4 +1,4 @@
-# quadcopterControl
+# quadcopterControlClone
 Cordova application to control multiwii quadcopter (by a raspberry pi)
 
 See http://www.instructables.com/id/The-Drone-Pi/ for more informations on our project
